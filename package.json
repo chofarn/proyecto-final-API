@@ -1,10 +1,15 @@
 {
   "name": "proyecto-final",
   "version": "1.0.0",
-  "description": "An API REST using express.js",
+  "description": "Final project of Human Resources System",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chofarn/proyecto-final-API"
   },
   "keywords": [
     "api",
@@ -14,7 +19,16 @@
   ],
   "author": "Fernanda Sofia Rojas Nuñez",
   "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/chofarn/proyecto-final-API/issues"
+  },
+  "homepage": "https://github.com/chofarn/proyecto-final-API/#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1",
+    "xlsx": "^0.18.5"
   }
 }

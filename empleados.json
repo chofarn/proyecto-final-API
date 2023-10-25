@@ -1,0 +1,244 @@
+{
+      "empleado": [
+        {
+          "ID": 1,
+          "Nombre": "Juan",
+          "Apellidos": "Gómez",
+          "Teléfono": "555-123-4567",
+          "Correo Electrónico": "juan.gomez@email.com",
+          "Dirección": "Calle 123, Ciudad A"
+        },
+        {
+          "ID": 2,
+          "Nombre": "María",
+          "Apellidos": "López",
+          "Teléfono": "555-234-5678",
+          "Correo Electrónico": "maria.lopez@email.com",
+          "Dirección": "Avenida 456, Ciudad B"
+        },
+        {
+          "ID": 3,
+          "Nombre": "Pedro",
+          "Apellidos": "Rodríguez",
+          "Teléfono": "555-345-6789",
+          "Correo Electrónico": "pedro.rodriguez@email.com",
+          "Dirección": "Calle 789, Ciudad C"
+        },
+        {
+          "ID": 4,
+          "Nombre": "Laura",
+          "Apellidos": "Martínez",
+          "Teléfono": "555-456-7890",
+          "Correo Electrónico": "laura.martinez@email.com",
+          "Dirección": "Avenida 012, Ciudad A"
+        },
+        {
+          "ID": 5,
+          "Nombre": "Carlos",
+          "Apellidos": "González",
+          "Teléfono": "555-567-8901",
+          "Correo Electrónico": "carlos.gonzalez@email.com",
+          "Dirección": "Calle 345, Ciudad D"
+        },
+        {
+          "ID": 6,
+          "Nombre": "Ana",
+          "Apellidos": "Fernández",
+          "Teléfono": "555-678-9012",
+          "Correo Electrónico": "ana.fernandez@email.com",
+          "Dirección": "Avenida 678, Ciudad B"
+        },
+        {
+          "ID": 7,
+          "Nombre": "Diego",
+          "Apellidos": "Sánchez",
+          "Teléfono": "555-789-0123",
+          "Correo Electrónico": "diego.sanchez@email.com",
+          "Dirección": "Calle 901, Ciudad E"
+        },
+        {
+          "ID": 8,
+          "Nombre": "Laura",
+          "Apellidos": "Pérez",
+          "Teléfono": "555-890-1234",
+          "Correo Electrónico": "laura.perez@email.com",
+          "Dirección": "Avenida 234, Ciudad C"
+        },
+        {
+          "ID": 9,
+          "Nombre": "Alejandro",
+          "Apellidos": "García",
+          "Teléfono": "555-901-2345",
+          "Correo Electrónico": "alejandro.garcia@email.com",
+          "Dirección": "Calle 567, Ciudad F"
+        },
+        {
+          "ID": 10,
+          "Nombre": "Marta",
+          "Apellidos": "Díaz",
+          "Teléfono": "555-012-3456",
+          "Correo Electrónico": "marta.diaz@email.com",
+          "Dirección": "Avenida 123, Ciudad D"
+        },
+        {
+          "ID": 11,
+          "Nombre": "José",
+          "Apellidos": "Ramírez",
+          "Teléfono": "555-123-4567",
+          "Correo Electrónico": "jose.ramirez@email.com",
+          "Dirección": "Calle 111, Ciudad X"
+        },
+        {
+          "ID": 12,
+          "Nombre": "Andrea",
+          "Apellidos": "Torres",
+          "Teléfono": "555-234-5678",
+          "Correo Electrónico": "andrea.torres@email.com",
+          "Dirección": "Avenida 222, Ciudad Y"
+        },
+        {
+          "ID": 13,
+          "Nombre": "Luis",
+          "Apellidos": "Soto",
+          "Teléfono": "555-345-6789",
+          "Correo Electrónico": "luis.soto@email.com",
+          "Dirección": "Calle 333, Ciudad Z"
+        },
+        {
+          "ID": 14,
+          "Nombre": "Diana",
+          "Apellidos": "Mendoza",
+          "Teléfono": "555-456-7890",
+          "Correo Electrónico": "diana.mendoza@email.com",
+          "Dirección": "Avenida 444, Ciudad W"
+        },
+        {
+          "ID": 15,
+          "Nombre": "Fernando",
+          "Apellidos": "García",
+          "Teléfono": "555-567-8901",
+          "Correo Electrónico": "fernando.garcia@email.com",
+          "Dirección": "Calle 555, Ciudad V"
+        },
+        {
+              "ID": 16,
+              "Nombre": "Alejandra",
+              "Apellidos": "Soto",
+              "Teléfono": "555-234-5678",
+              "Correo Electrónico": "alejandra.soto@email.com",
+              "Dirección": "Calle 1234, Ciudad K"
+            },
+            {
+              "ID": 17,
+              "Nombre": "Ricardo",
+              "Apellidos": "Ortega",
+              "Teléfono": "555-345-6789",
+              "Correo Electrónico": "ricardo.ortega@email.com",
+              "Dirección": "Avenida 5678, Ciudad L"
+            },
+            {
+              "ID": 18,
+              "Nombre": "Carmen",
+              "Apellidos": "Herrera",
+              "Teléfono": "555-456-7890",
+              "Correo Electrónico": "carmen.herrera@email.com",
+              "Dirección": "Calle 6789, Ciudad M"
+            },
+            {
+              "ID": 19,
+              "Nombre": "Roberto",
+              "Apellidos": "Campos",
+              "Teléfono": "555-567-8901",
+              "Correo Electrónico": "roberto.campos@email.com",
+              "Dirección": "Avenida 7890, Ciudad N"
+            },
+            {
+              "ID": 20,
+              "Nombre": "Silvia",
+              "Apellidos": "Molina",
+              "Teléfono": "555-678-9012",
+              "Correo Electrónico": "silvia.molina@email.com",
+              "Dirección": "Calle 12345, Ciudad O"
+            },
+            {
+              "ID": 21,
+              "Nombre": "Joaquín",
+              "Apellidos": "Vargas",
+              "Teléfono": "555-789-0123",
+              "Correo Electrónico": "joaquin.vargas@email.com",
+              "Dirección": "Avenida 12345, Ciudad P"
+            },
+            {
+              "ID": 22,
+              "Nombre": "Daniela",
+              "Apellidos": "Cruz",
+              "Teléfono": "555-890-1234",
+              "Correo Electrónico": "daniela.cruz@email.com",
+              "Dirección": "Calle 5678, Ciudad Q"
+            },
+            {
+              "ID": 23,
+              "Nombre": "Antonio",
+              "Apellidos": "Jiménez",
+              "Teléfono": "555-901-2345",
+              "Correo Electrónico": "antonio.jimenez@email.com",
+              "Dirección": "Avenida 6789, Ciudad R"
+            },
+            {
+              "ID": 24,
+              "Nombre": "Valeria",
+              "Apellidos": "Guzmán",
+              "Teléfono": "555-012-3456",
+              "Correo Electrónico": "valeria.guzman@email.com",
+              "Dirección": "Calle 2345, Ciudad S"
+            },
+            {
+              "ID": 25,
+              "Nombre": "Federico",
+              "Apellidos": "Rojas",
+              "Teléfono": "555-123-4567",
+              "Correo Electrónico": "federico.rojas@email.com",
+              "Dirección": "Avenida 5678, Ciudad T"
+            },
+            {
+              "ID": 26,
+              "Nombre": "Natalia",
+              "Apellidos": "Paredes",
+              "Teléfono": "555-234-5678",
+              "Correo Electrónico": "natalia.paredes@email.com",
+              "Dirección": "Calle 7890, Ciudad U"
+            },
+            {
+              "ID": 27,
+              "Nombre": "Raúl",
+              "Apellidos": "Navarro",
+              "Teléfono": "555-345-6789",
+              "Correo Electrónico": "raul.navarro@email.com",
+              "Dirección": "Avenida 9012, Ciudad V"
+            },
+            {
+              "ID": 28,
+              "Nombre": "Isabella",
+              "Apellidos": "Silva",
+              "Teléfono": "555-456-7890",
+              "Correo Electrónico": "isabella.silva@email.com",
+              "Dirección": "Calle 12345, Ciudad W"
+            },
+            {
+              "ID": 29,
+              "Nombre": "Eduardo",
+              "Apellidos": "Mendoza",
+              "Teléfono": "555-567-8901",
+              "Correo Electrónico": "eduardo.mendoza@email.com",
+              "Dirección": "Avenida 2345, Ciudad X"
+            },
+            {
+              "ID": 30,
+              "Nombre": "Sofía",
+              "Apellidos": "Ortiz",
+              "Teléfono": "555-678-9012",
+              "Correo Electrónico": "sofia.ortiz@email.com",
+              "Dirección": "Calle 5678, Ciudad Y"
+            }
+          ]
+    }
